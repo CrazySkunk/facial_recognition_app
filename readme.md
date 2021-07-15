@@ -11,6 +11,8 @@
 `python3 attendance.py`
 ### for Windows based systems
 `python attendance.py`
+
+### NB Your webcam has to be working and not blocked since we are going to use it or connect a webcam through usb port and change webcam in code to 1 
 ###This was as an assignment given by Dr. Eddy Addero at the end ot the Artificial Intelligence Course to assess our ability to comprehend whatever he had taken us through during the course
 
 
