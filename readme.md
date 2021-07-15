@@ -16,4 +16,4 @@
 ### This was as an assignment given by Dr. Eddy Addero at the end ot the Artificial Intelligence Course to assess our ability to comprehend whatever he had taken us through during the course
 
 
-## This project is being written by James Omoondi
+## This project is being written by James Omondi
