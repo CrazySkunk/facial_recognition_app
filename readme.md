@@ -4,7 +4,7 @@
 ### For Linux based Systems
 `pip3 install numpy open-cv-python dlib face-recognition cmake`
 ### For windows based System
-`pip install numpy open-cv-python dlib face-recognition cmake`
+`pip install numpy opencv-python dlib face-recognition cmake`
 
 ### After the requirements are installed run the attendance.py (Which is the main program) the main.py was used to set up the system and requirements add your photos slightly to the side and facing camera to the folder and navigate to the root folder of the project and navigate to attendance folder if you are in terminal or cmd and use the commands as below
 ### For Linux based systems
